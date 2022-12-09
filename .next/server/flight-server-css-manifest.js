@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/iqbalsahrizal/Documents/PersonalProjects/meta-l/app/page":["/Users/iqbalsahrizal/Documents/PersonalProjects/meta-l/styles/globals.css"]},"/Users/iqbalsahrizal/Documents/PersonalProjects/meta-l/app/layout.js":["/Users/iqbalsahrizal/Documents/PersonalProjects/meta-l/styles/globals.css"]}
